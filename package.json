@@ -1,12 +1,16 @@
 {
   "name": "future-value-calculator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "future value calculator",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Syket Bhattachergee",
+  "author": "Syket Bhattachergee <syketweb@gmail.com> (https://syketb.vercel.app/)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/syket-git/future-value-calculator"
+  },
   "keywords": [
     "future value",
     "calculator",
