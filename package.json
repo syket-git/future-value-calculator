@@ -1,0 +1,16 @@
+{
+  "name": "future-value-calculator",
+  "version": "1.0.0",
+  "description": "future value calculator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Syket Bhattachergee",
+  "keywords": [
+    "future value",
+    "calculator",
+    "financial"
+  ],
+  "license": "MIT"
+}
