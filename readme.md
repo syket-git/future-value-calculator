@@ -6,6 +6,10 @@
 
 A simple npm package to calculate the future value of an investment based on the present value, interest rate, and compounding periods.
 
+Examples at https://future-value-calculator-demo.vercel.app/.
+
+Source code at https://github.com/syket-git/future-value-calculator,
+
 ## 🏗️ Installation
 
 You can install the package using npm:
