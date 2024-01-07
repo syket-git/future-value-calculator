@@ -22,7 +22,7 @@ npm install future-value-calculator
 ## 🔥 How to use
 
 ```js
-const calculateFutureValue = require("future-value-calculator");
+import calculateFutureValue from "future-value-calculator";
 
 // Example usage
 const presentValue = 1000;
